@@ -1,0 +1,41 @@
+# General configuration
+url: https://iasi.hackandtell.ro
+baseurl: ''
+enforce_ssl: iasi.hackandtell.ro
+safe: true
+lsi: false
+sass:
+    style: compressed
+
+exclude:
+  - .travis.yml
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+
+# Site settings
+title: Hack and Tell @Iași
+description: >
+  H&&T is a show and tell style meetup for hackers!
+  Events are structured such that 8—10 hackers give 5 minute long
+  presentations on something they built, and then respond to Q&A
+  for 5 more minutes.
+
+
+author:
+  fullname: Hack and Tell @Iași
+  github: https://github.com/hackandtell-ro/
+
+# Build settings
+markdown: kramdown
+
+# Settings for deploy rake task
+username:        hackandtell-ro
+repo:            iasi.hackandtell.ro
+branch:          source
+relative_source: ../iasi.hackandtell.ro/
+destination:     ../iasi.hackandtell.ro-pages/
+production_url:  https://iasi.hackandtell.ro
+source_url:      https://github.com/hackandtell-ro/iasi.hackandtell.ro
