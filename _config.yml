@@ -1,7 +1,7 @@
 # General configuration
-url: https://iasi.hackandtell.ro
+url: https://tm.hackandtell.ro
 baseurl: ''
-enforce_ssl: iasi.hackandtell.ro
+enforce_ssl: tm.hackandtell.ro
 safe: true
 lsi: false
 sass:
@@ -16,7 +16,7 @@ exclude:
   - LICENSE
 
 # Site settings
-title: Hack and Tell @Iași
+title: Hack and Tell @Timișoara
 description: >
   H&&T is a show and tell style meetup for hackers!
   Events are structured such that 8—10 hackers give 5 minute long
@@ -25,7 +25,7 @@ description: >
 
 
 author:
-  fullname: Hack and Tell @Iași
+  fullname: Hack and Tell @Timișoara
   github: https://github.com/hackandtell-ro/
 
 # Build settings
@@ -33,9 +33,9 @@ markdown: kramdown
 
 # Settings for deploy rake task
 username:        hackandtell-ro
-repo:            iasi.hackandtell.ro
+repo:            tm.hackandtell.ro
 branch:          source
-relative_source: ../iasi.hackandtell.ro/
-destination:     ../iasi.hackandtell.ro-pages/
-production_url:  https://iasi.hackandtell.ro
-source_url:      https://github.com/hackandtell-ro/iasi.hackandtell.ro
+relative_source: ../tm.hackandtell.ro/
+destination:     ../tm.hackandtell.ro-pages/
+production_url:  https://tm.hackandtell.ro
+source_url:      https://github.com/hackandtell-ro/tm.hackandtell.ro

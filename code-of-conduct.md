@@ -33,7 +33,7 @@ Harassment includes (but is not limited to) offensive comments related to gender
 
 ##Reporting
 
-If you are being harassed in a Hack && Tell space, notice that someone else is being harassed, or have any other concerns, please contact the organizers immediately (either grab one of us in person, or send us an email at iasi@hackandtell.ro). You do *not* need to be the target of harassment to speak up. Making Hack && Tell the best possible community is everyone's responsibility.
+If you are being harassed in a Hack && Tell space, notice that someone else is being harassed, or have any other concerns, please contact the organizers immediately (either grab one of us in person, or send us an email at tm@hackandtell.ro). You do *not* need to be the target of harassment to speak up. Making Hack && Tell the best possible community is everyone's responsibility.
 
 If an incident is reported during an event, the organizers will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
 
